@@ -1,4 +1,4 @@
-# Welcome to Game Haven – your one-stop destination for discovering and buying the best games online!
+ Welcome to Game Haven – your one-stop destination for discovering and buying the best games online!
 
 # E-Commerce Website for Games
 
@@ -32,7 +32,7 @@ game-store/
 
 ## Features
 
-### 👨‍💻 Frontend (Angular)
+###  Frontend (Angular)
 
 * User-friendly UI built with Angular
 * Game listing with image, rating, and price
@@ -40,7 +40,7 @@ game-store/
 * View cart and total amount
 * Place order (simulated)
 
-### 🔧 Backend (ASP.NET Core Web API)
+###  Backend (ASP.NET Core Web API)
 
 * RESTful API for games, cart, and orders
 * Entity Framework Core for data access
@@ -153,13 +153,13 @@ export const environment = {
 
 ##  Screenshots
 
-> login page
+> ### login page
 ![image](https://github.com/user-attachments/assets/41a4f783-22e1-43df-b92c-f5ba469fdbd4)
-> Home Page
+> ### Home Page
 ![WhatsApp Image 2025-06-27 at 4 55 13 PM](https://github.com/user-attachments/assets/4700d499-3f29-4c11-90c1-afbbc38330b7)
-> wishlist Page
+>### wishlist Page
 ![WhatsApp Image 2025-06-27 at 4 55 14 PM](https://github.com/user-attachments/assets/d8d51ccf-8bba-4fe7-b9c6-c43e41ca78c8)
-> cart Page
+> ### cart Page
 ![WhatsApp Image 2025-06-27 at 4 55 13 PM (1)](https://github.com/user-attachments/assets/ba45a59f-9e0e-4279-b26f-b5e05059b1a5)
 > 
 

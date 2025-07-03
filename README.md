@@ -1,10 +1,8 @@
-Welcome to Game Haven – your one-stop destination for discovering and buying the best games online!
-
-This project is built using Angular for the frontend and .NET Core for the backend, featuring secure login/signup functionality, game browsing, a shopping cart, wishlist, and more.
+# Welcome to Game Haven – your one-stop destination for discovering and buying the best games online!
 
 # E-Commerce Website for Games
 
-A full-stack web application that allows users to browse, view, and purchase video games online. The project is built using **Angular** for the frontend and **ASP.NET Core Web API** with **SQL Server** for the backend.
+This project is built using Angular for the frontend and .NET Core for the backend, featuring secure login/signup functionality, game browsing, a shopping cart, wishlist, and more.
 
 ##  Project Structure
 
@@ -157,6 +155,16 @@ export const environment = {
 
 > login page
 ![image](https://github.com/user-attachments/assets/41a4f783-22e1-43df-b92c-f5ba469fdbd4)
+> Home Page
+![WhatsApp Image 2025-06-27 at 4 55 13 PM](https://github.com/user-attachments/assets/4700d499-3f29-4c11-90c1-afbbc38330b7)
+> wishlist Page
+![WhatsApp Image 2025-06-27 at 4 55 14 PM](https://github.com/user-attachments/assets/d8d51ccf-8bba-4fe7-b9c6-c43e41ca78c8)
+> cart Page
+![WhatsApp Image 2025-06-27 at 4 55 13 PM (1)](https://github.com/user-attachments/assets/ba45a59f-9e0e-4279-b26f-b5e05059b1a5)
+> 
+
+
+
 
 
 
